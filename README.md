@@ -69,7 +69,7 @@ There are several files in this repo, the important ones and their descriptions 
 
 5. **DisasterResponse.db** - The stored sqlite database file with "UniqueMessages" table after running process_data.py
 
-6. **classifier.pkl** - The Python picke model file that can be invoked using a Flask based Web Application.
+6. **classifier.pkl** - The Python pickle model file that can be deployed using a Flask based Web Application.
 
 7. **run.py** - The Web application invoker that hosts a Flask(a lightweight WSGI web application framework) based WebPage at http://0.0.0.0:3001/ after running it.
 			   
@@ -83,23 +83,23 @@ Here are some of the screenshots of the web application showing,
 
 1. **The overview of the training dataset**
 
-![alt text](Overview_TrainingData_1.PNG "Overview 1")
+![alt text](Images/Overview_TrainingData_1.PNG "Overview 1")
 
-![alt text](Overview_TrainingData_2.PNG "Overview 2")
+![alt text](Images/Overview_TrainingData_2.PNG "Overview 2")
 
-![alt text](Overview_TrainingData_3.PNG "Overview 3")
+![alt text](Images/Overview_TrainingData_3.PNG "Overview 3")
 
-![alt text](Overview_TrainingData_4.PNG "Overview 4")
+![alt text](Images/Overview_TrainingData_4.PNG "Overview 4")
 
 2. **Test the real time Query - Hurricane in Florida**
 
-![alt text](Query.PNG "Query")
+![alt text](Images/Query.PNG "Query")
 
 3. **Classifier Response**
 
-![alt text](Response1.PNG "Response1")
+![alt text](Images/Response1.PNG "Response1")
 
-![alt text](Response2.PNG "Response2")
+![alt text](Images/Response2.PNG "Response2")
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
