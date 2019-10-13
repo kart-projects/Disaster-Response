@@ -5,8 +5,11 @@ In this project we will create a Scikit-Learn Pipeline with a Random Forest clas
 The project focuses on the following steps:
 
 1. Data Cleaning
+
 a. Extract      - Extracting the csv data into pandas dataframe to clean and analyze.
+
 b. Transform    - Convert columns into a shape that we want to analyze. This will involve merging or splitting of columns, removal of duplicate rows and other data transformations required to reshape the data.
+
 c. Load         - Loading of the transformed data to the required database.
 	
 2. Model Building   - Build out the Random Forest model on the training dataset, tune the hyper parameters using GridSearchCSV and save the optimal model.
